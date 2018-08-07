@@ -1,0 +1,4 @@
+[submodule "todo_define"]
+	path = todo_define
+	url = git@github.com:acaibowl/todo_define.git
+	ignore = dirty
